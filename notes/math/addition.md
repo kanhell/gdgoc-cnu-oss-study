@@ -26,5 +26,5 @@ Adding zero to any number gives the same number.
 ```
 10 + 10 = 20
 20 + 30 = 50
-15 + 5 = 25
+15 + 5 = 20
 ```
